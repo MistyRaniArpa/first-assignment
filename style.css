@@ -55,7 +55,7 @@ button:hover{
 }
 .parentdiv-1 img{
 width: 100%;
-height: 500px;
+height: 600px;
 }
 .parentdiv-1 .div-1{
 text-align: justify;
@@ -70,12 +70,8 @@ margin-top: 15%;
  margin-left: 5%;
  color: white;
  margin-top: 30%;
+ padding-bottom: 5px;
 }
-
-
-
-
-
 
 
 .parentdiv-2{
@@ -190,4 +186,21 @@ color: white;
 
 text-align: center;
 color: white;
+}
+
+.last-sec{
+    
+    height: 100px;
+    width: 86.5%;
+    background: white;
+    box-shadow: 2px 2px 2px gray,
+    -2px -2px 2px gray;
+    border-radius: 10px;
+    margin-top: 5%;
+   
+
+}
+.social{
+    display: flex;
+    
 }
