@@ -177,3 +177,18 @@ text-indent: 15px;
 
 
 }
+footer{
+    margin-top: 5%;
+    height: 150px;
+    background: black;
+}
+.footer-one h1{
+    margin-top: 10px;
+text-align: center;
+color: white;
+}
+.paragraph p{
+
+text-align: center;
+color: white;
+}
