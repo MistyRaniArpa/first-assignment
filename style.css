@@ -86,6 +86,7 @@ margin-top: 15%;
     padding-top: 4%;
 display: flex;
 width: 100%;
+
 /* margin-left: 5%; */
 
 }
@@ -97,9 +98,11 @@ width: 100%;
 padding-right:5%;
 padding-left: 40%;
 padding-top: 10%;
+text-align: center;
 }
 .div-4 .but{
     border:2px solid;
     border-radius: 20px;
     background: orange;
 }
+
