@@ -202,5 +202,19 @@ color: white;
 }
 .social{
     display: flex;
-    
+    padding-top: 20px;
+    /* padding-left: 33%; */
 }
+.nothing-1 {
+margin-left: 10%;
+}
+.nothing-2 {
+    margin-left: 27%;
+    }
+
+    .nothing-3 {
+        margin-left: 33%;
+       margin-right: 10%;
+        }
+
+
